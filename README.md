@@ -35,9 +35,3 @@ conv.run()
 # returns B.ciMB5
 ```
 
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-## What is next?
-This project aims to include modules for *(specific_purpose)* base conversion.
-The next will be to include new modules for **Ascii** conversion and URL shortening.
